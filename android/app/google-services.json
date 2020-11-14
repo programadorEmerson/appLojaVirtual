@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "382713402364",
+    "firebase_url": "https://loja-programandosolucoes-com.firebaseio.com",
+    "project_id": "loja-programandosolucoes-com",
+    "storage_bucket": "loja-programandosolucoes-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382713402364:android:6c704935c67d3429a3d879",
+        "android_client_info": {
+          "package_name": "com.programandosolucoes.loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382713402364-0cug4sjukdsp9mf95pp3h7glq32qlcjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.programandosolucoes.loja",
+            "certificate_hash": "17ba2ed0a326af535cad35ae203153f334301289"
+          }
+        },
+        {
+          "client_id": "382713402364-p7nn47d1iaqha2l4gr054i79n1vvd5tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAopLnx4tIqu2LXKHofaJJIQAMD6gTauOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382713402364-p7nn47d1iaqha2l4gr054i79n1vvd5tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
